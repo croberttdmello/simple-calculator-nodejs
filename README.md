@@ -12,8 +12,8 @@
 </p>
 
 ## Features
-
-  <img src="./assets-readme/icons8-nodejs.svg" alt="Icon node" width="50"> React
+  <img src="./assets-readme/icons8-nodejs.svg" alt="Icon node" width="50">
+  <img src="./assets-readme/jest.svg" alt="Icon node" width="50">
 <br>
 
 ## Getting Started
